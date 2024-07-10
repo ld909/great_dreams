@@ -37,8 +37,8 @@
 
 ## 📬 联系我
 
-- 抖音：[@千里码](https://v.douyin.com/i67mskx7/)
-- GitHub：[Your GitHub Profile](https://github.com/ld909/great_dreams)
+- 抖音：<a href="https://v.douyin.com/i67mskx7/" target="_blank">@千里码</a>
+- GitHub：<a href="https://github.com/ld909/great_dreams" target="_blank">Your GitHub Profile</a>
 
 ## 📄 许可证
 
