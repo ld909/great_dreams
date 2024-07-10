@@ -25,6 +25,7 @@
 1. 克隆本仓库：
 ```bash
 git clone https://github.com/ld909/great_dreams
+```
 
 2. 进入感兴趣的项目文件夹
 3. 按照项目中的 README 指示运行项目
