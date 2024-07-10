@@ -23,6 +23,8 @@
 ## 🚀 如何使用
 
 1. 克隆本仓库：
+```bash
+git clone https://github.com/ld909/great_dreams
 
 2. 进入感兴趣的项目文件夹
 3. 按照项目中的 README 指示运行项目
@@ -37,8 +39,7 @@
 
 ## 📬 联系我
 
-- 抖音：<a href="https://v.douyin.com/i67mskx7/" target="_blank">@千里码</a>
-- GitHub：<a href="https://github.com/ld909/great_dreams" target="_blank">Your GitHub Profile</a>
+- 抖音：[@千里码](https://v.douyin.com/i67mskx7/)
 
 ## 📄 许可证
 
